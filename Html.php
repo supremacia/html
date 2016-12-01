@@ -592,12 +592,12 @@ class Html
     /**
      * Create <select> HTML tag
      * configuration:
-            $select['data'] = ['value'=>'display', 'val....];
-            $select['default'] = '..value...';
-            $LibDocHtml->val('varName',$select);
-
-            ---- in HTML file 
-            <x::select data="varName" ...some attributes />
+     *       $select['data'] = ['value'=>'display', 'val....];
+     *       $select['default'] = '..value...';
+     *       $LibDocHtml->val('varName',$select);
+     *   
+     *       ---- in HTML file 
+     *       <x::select data="varName" ...some attributes />
      *
      * @param array $ret ©NeosTag data array
      * @return string|html
