@@ -1,5 +1,4 @@
-# Html Template Class
-Html Template Class 
+# Html Template Class 
 
 * Renders NeosTags in Html files;
 * Render Blade tags (partial);
